@@ -1,0 +1,15 @@
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\bin\Debug\net8.0\AssemblyReader.exe
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\bin\Debug\net8.0\AssemblyReader.deps.json
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\bin\Debug\net8.0\AssemblyReader.runtimeconfig.json
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\bin\Debug\net8.0\AssemblyReader.dll
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\bin\Debug\net8.0\AssemblyReader.pdb
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\AssemblyReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\AssemblyReader.AssemblyInfoInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\AssemblyReader.AssemblyInfo.cs
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\AssemblyReader.csproj.CoreCompileInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\AssemblyReader.sourcelink.json
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\AssemblyReader.dll
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\refint\AssemblyReader.dll
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\AssemblyReader.pdb
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\AssemblyReader.genruntimeconfig.cache
+C:\Users\chris.freckleton\source\repos\Katas\Assembly\AssemblyReader\AssemblyReader\obj\Debug\net8.0\ref\AssemblyReader.dll
