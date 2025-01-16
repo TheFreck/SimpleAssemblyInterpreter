@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AssemblyInterpreter/.vs/AssemblyInterpreter
+/AssemblyInterpreter/AssemblyInterpreter/bin/Debug/net8.0
+/AssemblyInterpreter/AssemblyInterpreter/obj
+/AssemblyInterpreter/AssemblyInterpreter.Specs/bin/Debug/net8.0
+/AssemblyInterpreter/AssemblyInterpreter.Specs/obj

@@ -1,0 +1,6 @@
+@AssemblyInterpreter_HostAddress = http://localhost:5171
+
+GET {{AssemblyInterpreter_HostAddress}}/line/
+Accept: application/json
+
+###
